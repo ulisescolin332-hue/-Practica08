@@ -1,6 +1,7 @@
+/* Francisco Colín Ulises 
+Práctica 8, ejercicio extra 1*/
 
 #include <stdio.h>
-
 int main()
 
 {
