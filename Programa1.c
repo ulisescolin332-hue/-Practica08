@@ -1,5 +1,5 @@
 /* Francisco Colín Ulises 
-Práctica 8, ejercicio 1*/
+Práctica 8, Programa 1c*/
 
 #include <stdio.h>
 int main()
